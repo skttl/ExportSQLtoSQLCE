@@ -1,0 +1,19 @@
+{
+  "name": "exportsqltosqlce",
+  "version": "1.0.0",
+  "description": "Pak zippen ud til fx. c:\\sqlce.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skttl/ExportSQLtoSQLCE.git"
+  },
+  "author": "Søren Kottal <snielsen43@gmail.com> (https://github.com/skttl)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skttl/ExportSQLtoSQLCE/issues"
+  },
+  "homepage": "https://github.com/skttl/ExportSQLtoSQLCE#readme"
+}
